@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+$base-background: #F7F5FB;
+$smoke-green: #F9AB55;
+$dark-orange: #F58A07;
+$blue: #084887;
+$wild-blue: #909CC2;
+
+body {
+  background-color: $base-background;
+  margin: 0;
+  font-family: "Roboto Light", serif;
+}
