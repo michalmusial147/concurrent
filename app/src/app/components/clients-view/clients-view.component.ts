@@ -2,7 +2,9 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-clients-view',
-  templateUrl: './clients-view.component.html',
+  template: `
+  <p>clients-view works!</p>
+  `,
   styleUrls: ['./clients-view.component.scss']
 })
 export class ClientsViewComponent implements OnInit {
